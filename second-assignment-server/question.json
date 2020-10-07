@@ -1,0 +1,33 @@
+ {
+  "data": [
+    {
+      "id": 0,
+      "question": "ทดสอบคำถามจาก server"
+    },
+    {
+      "id": 1,
+      "question": "Which animal is known as the ‘Ship of the Desert?"
+    },
+    {
+      "id": 2,
+      "question": "How many days do we have in a week?"
+    },
+    {
+      "id": 3,
+      "question": "How many colors are there in a rainbow?"
+    },
+    {
+      "id": 4,
+      "question": "How many letters are there in the English alphabet?"
+    },
+    {
+      "id": 5,
+      "question": "Which month of the year has the least number of days?"
+    },
+    {
+      "id": 6,
+      "question": "How many primary colors are there?"
+    }
+  ]
+ }
+
